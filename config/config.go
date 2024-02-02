@@ -1,7 +1,7 @@
 package config
 
 import (
-	"short-it/internal/logger"
+	"go-web-template/internal/logger"
 	"sync"
 
 	"github.com/joho/godotenv"
